@@ -66,7 +66,7 @@ public class Switch {
 
         //byte short char int
 
-        switch (month) {
+        switch (month.toLowerCase()) {
             case "January":
                 System.out.println("Jan");
                 break;
