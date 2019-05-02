@@ -1,6 +1,4 @@
-//import java.util.Arrays;
-
-public class NumberOfDaysinMonth {
+public class NumberOfDaysInMonth {
 
     public static boolean isLeapYear(int year) {
         if (year >= 1 && year <= 9999) {
@@ -13,40 +11,7 @@ public class NumberOfDaysinMonth {
         }
     }
 
-    //using array contains function
-//    public static boolean arrayContains(int[] array, int item){
-//        int count = 0;
-//        for(int i : array){
-//            if(i == item){
-//                count = 1;
-//                break;
-//            } else continue;
-//        } if(count > 0){return true;} else {return false;}
-//    }
-
-
     public static int getDaysInMonth(int month, int year) {
-//        int month31[] = {1,3,5,7,8,10,12};
-//        int month30[] = {4,6,9,11};
-//        int days;
-        // Declaring array literal
-
-//        if(month<1||month>12||year<1||year>9999){
-//            days = -1;
-//        } else if(arrayContains(month31, month)){
-//            days = 31;
-//        } else if(arrayContains(month30, month)){
-//            days = 30;
-//        }else if(month == 2) {
-//            if (isLeapYear(year)) {
-//                days = 29;
-//            } else {
-//                days = 28;
-//            }
-//        } else {days = 9999;}
-//
-//        return days;
-//    }
         int days = 0;
         switch (month) {
             case 1:
