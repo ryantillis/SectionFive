@@ -6,9 +6,10 @@ public class theForStatement {
 //        }
 
         int count = 0;
-        for(int i=1; i<14; i++){
-            if(isPrime(i)){count = ++count;}else{continue;}
+        for(int i=10; i<50; i++){
+            if(isPrime(i)){count++;}else{continue;}
             System.out.println(i + " prime is " + isPrime(i));
+            if(count == 3){break;}
         }
         System.out.println(count);
 
