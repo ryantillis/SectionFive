@@ -9,7 +9,9 @@ public class Main {
 //        System.out.println(NumberOfDaysInMonth.getDaysInMonth(-1,2020));
 //        System.out.println(NumberOfDaysInMonth.getDaysInMonth(1,-2020));
 
-
+        System.out.println(NumberPalindrome.isPalindrome(-1221)); //true
+        System.out.println(NumberPalindrome.isPalindrome(707)); //true
+        System.out.println(NumberPalindrome.isPalindrome(11212)); //false
 
     }
 
