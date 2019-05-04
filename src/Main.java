@@ -33,10 +33,16 @@ public class Main {
 ////        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(81, 153));
 
 
-        FactorPrinter.printFactors(6);
-        FactorPrinter.printFactors(32);
-        FactorPrinter.printFactors(10);
-        FactorPrinter.printFactors(-1);
+//        FactorPrinter.printFactors(6);
+////        FactorPrinter.printFactors(32);
+////        FactorPrinter.printFactors(10);
+////        FactorPrinter.printFactors(-1);
+
+
+        System.out.println(PerfectNumber.isPerfectNumber(6));
+        System.out.println(PerfectNumber.isPerfectNumber(28));
+        System.out.println(PerfectNumber.isPerfectNumber(5));
+        System.out.println(PerfectNumber.isPerfectNumber(-1));
 
     }
 
