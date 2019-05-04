@@ -53,13 +53,25 @@ public class Main {
 //        System.out.println(NumberToWords.reverse(1212));
 //        System.out.println(NumberToWords.reverse(1234));
 //        System.out.println(NumberToWords.reverse(100));
+//
+//        NumberToWords.numberToWords(123);
+//        NumberToWords.numberToWords(1010);
+//        NumberToWords.numberToWords(1000);
+//        NumberToWords.numberToWords(-12);
+//        NumberToWords.numberToWords(0);
+//        NumberToWords.numberToWords(11);
 
-        NumberToWords.numberToWords(123);
-        NumberToWords.numberToWords(1010);
-        NumberToWords.numberToWords(1000);
-        NumberToWords.numberToWords(-12);
-        NumberToWords.numberToWords(0);
-        NumberToWords.numberToWords(11);
+//        FlourPacker.canPack(1,0,4);
+//        FlourPacker.canPack(1,0,5);
+//        FlourPacker.canPack(0,5,4);
+//        FlourPacker.canPack(2,2,11);
+//        FlourPacker.canPack(-3,2,12);
+
+        System.out.println("false -- " + FlourPacker.canPack(1,0,4));
+        System.out.println("true -- " + FlourPacker.canPack(1,0,5));
+        System.out.println("true -- " + FlourPacker.canPack(0,5,4));
+        System.out.println("true -- " + FlourPacker.canPack(2,2,11));
+        System.out.println("false -- " + FlourPacker.canPack(-3,2,12));
 
 
 
