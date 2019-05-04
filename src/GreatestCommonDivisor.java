@@ -21,6 +21,6 @@ public class GreatestCommonDivisor {
 
         }
 
-    return common;}
+        return common;}
 
 }
