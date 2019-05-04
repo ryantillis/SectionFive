@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="035b7b6b-913e-4041-b542-4c08e72edd67" name="Default Changelist" comment="Switch">
-      <change afterPath="$PROJECT_DIR$/src/EvenDigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SharedDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SectionFive/DayOfTheWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SectionFive/DayOfTheWeek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SectionFive/META-INF/SectionFive.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SectionFive/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SectionFive/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SectionFive/NumberInWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SectionFive/NumberInWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SectionFive/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SectionFive/Switch.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,26 +22,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="345">
+              <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/EvenDigitSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FirstLastDigitSum.java">
+        <entry file="file://$PROJECT_DIR$/src/SharedDigit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <caret selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -69,8 +55,9 @@
         <option value="$PROJECT_DIR$/src/Switch.java" />
         <option value="$PROJECT_DIR$/src/DayOfTheWeek.java" />
         <option value="$PROJECT_DIR$/src/NumberInWord.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/EvenDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/SharedDigit.java" />
       </list>
     </option>
   </component>
@@ -193,15 +180,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556657121603</updated>
-      <workItem from="1556982244596" duration="989000" />
+      <workItem from="1556982244596" duration="1901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="989000" />
+    <option name="totallyTimeSpent" value="1901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -213,7 +201,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.26626506" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.26569343" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -221,7 +209,7 @@
       <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32846716" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.328777" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32846716" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Database" />
@@ -279,24 +267,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/EvenDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FirstLastDigitSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="37" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="345">
+          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EvenDigitSum.java">
+    <entry file="file://$PROJECT_DIR$/src/SharedDigit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state>
+          <caret selection-end-line="17" />
         </state>
       </provider>
     </entry>
