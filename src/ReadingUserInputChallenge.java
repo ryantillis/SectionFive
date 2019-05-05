@@ -23,6 +23,8 @@ public class ReadingUserInputChallenge {
         }
 
         System.out.println("The sum is: " + sum);
+        scanner.close();
     }
+
 
 }
