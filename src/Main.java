@@ -79,7 +79,9 @@ public class Main {
 //     System.out.println("5 -- "   + LargestPrime.getLargestPrime(45));
 //       System.out.println("7 -- "  + LargestPrime.getLargestPrime(-1));
 
-        DiagonalStar.printSquareStar(2);
+//        DiagonalStar.printSquareStar(2);
+
+        InputCalculator.inputThenPrintSumAndAverage();
 
     }
 

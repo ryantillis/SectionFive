@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="035b7b6b-913e-4041-b542-4c08e72edd67" name="Default Changelist" comment="Switch">
-      <change afterPath="$PROJECT_DIR$/src/MinMaxChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SectionFive/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SectionFive/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,26 +22,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
-              <caret line="81" column="38" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+            <state relative-caret-position="448">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MinMaxChallenge.java">
+        <entry file="file://$PROJECT_DIR$/src/InputCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReadingUserInputChallenge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="30" />
+            <state relative-caret-position="425">
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -72,11 +65,12 @@
         <option value="$PROJECT_DIR$/src/ParsingFromString.java" />
         <option value="$PROJECT_DIR$/src/FlourPacker.java" />
         <option value="$PROJECT_DIR$/src/LargestPrime.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/DiagonalStar.java" />
         <option value="$PROJECT_DIR$/src/ReadingUserInput.java" />
         <option value="$PROJECT_DIR$/src/ReadingUserInputChallenge.java" />
         <option value="$PROJECT_DIR$/src/MinMaxChallenge.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/InputCalculator.java" />
       </list>
     </option>
   </component>
@@ -146,7 +140,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinMaxChallenge">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="InputCalculator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputCalculator" />
+      <module name="SectionFive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputCalculator" />
+      <module name="SectionFive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SectionFive" />
@@ -156,20 +164,6 @@
     </configuration>
     <configuration name="MinMaxChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MinMaxChallenge" />
-      <module name="SectionFive" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParsingFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ParsingFromString" />
-      <module name="SectionFive" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadingUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReadingUserInput" />
       <module name="SectionFive" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -192,18 +186,18 @@
     <list>
       <item itemvalue="Application.Switch" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ParsingFromString" />
-      <item itemvalue="Application.ReadingUserInput" />
       <item itemvalue="Application.ReadingUserInputChallenge" />
       <item itemvalue="Application.MinMaxChallenge" />
+      <item itemvalue="Application.InputCalculator" />
+      <item itemvalue="Application.InputCalculator (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InputCalculator (1)" />
+        <item itemvalue="Application.InputCalculator" />
         <item itemvalue="Application.MinMaxChallenge" />
         <item itemvalue="Application.ReadingUserInputChallenge" />
-        <item itemvalue="Application.ReadingUserInput" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ParsingFromString" />
       </list>
     </recent_temporary>
   </component>
@@ -217,12 +211,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556657121603</updated>
-      <workItem from="1556982244596" duration="18480000" />
+      <workItem from="1556982244596" duration="21221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18480000" />
+    <option name="totallyTimeSpent" value="21221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -416,24 +410,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/MinMaxChallenge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
-          <caret line="81" column="38" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+        <state relative-caret-position="306">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReadingUserInputChallenge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="30" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinMaxChallenge.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="448">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
         </state>
       </provider>
     </entry>
