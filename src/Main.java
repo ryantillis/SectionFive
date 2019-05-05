@@ -73,13 +73,13 @@ public class Main {
 //        System.out.println("true -- " + FlourPacker.canPack(2,2,11));
 //        System.out.println("false -- " + FlourPacker.canPack(-3,2,12));
 
+//       System.out.println("7 -- "  + LargestPrime.getLargestPrime(7));
+//       System.out.println("31 -- "  + LargestPrime.getLargestPrime(217));
+//       System.out.println("-1 -- "  + LargestPrime.getLargestPrime(0));
+//     System.out.println("5 -- "   + LargestPrime.getLargestPrime(45));
+//       System.out.println("7 -- "  + LargestPrime.getLargestPrime(-1));
 
-
-       System.out.println("7 -- "  + LargestPrime.getLargestPrime(7));
-       System.out.println("31 -- "  + LargestPrime.getLargestPrime(217));
-       System.out.println("-1 -- "  + LargestPrime.getLargestPrime(0));
-     System.out.println("5 -- "   + LargestPrime.getLargestPrime(45));
-       System.out.println("7 -- "  + LargestPrime.getLargestPrime(-1));
+        DiagonalStar.printSquareStar(2);
 
     }
 
